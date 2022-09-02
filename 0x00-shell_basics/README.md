@@ -1,1 +1,1 @@
-a script that creates the directories
+life is a series of commas, not period
