@@ -1,1 +1,1 @@
-a script that will play the StarWars IV episode in the terminal
+a script that deletes all files in the current working directory that end with the character ~
