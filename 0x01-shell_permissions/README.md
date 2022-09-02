@@ -1,1 +1,1 @@
-a file that sets the mode of the file
+a script that adds execute permission to all subdirectories of the current directory
